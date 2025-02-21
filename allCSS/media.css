@@ -1,0 +1,40 @@
+*{
+  padding: 0;
+  margin: 0;
+  color: black;
+  font-size: 30vh;
+}
+
+.navhome{
+  background-color: rgb(113, 183, 209);
+  text-decoration: none;
+  color: rgb(207, 34, 34);
+  border: 1px solid blue;
+  display: inline;
+  position:flex;
+}
+
+.parent{
+  width: 100%;
+  background-color: brown;
+  position: relative;
+}
+
+.element{
+  display: flex;
+  position: sticky;
+  top: 0;
+  justify-content: center;
+  text-align: center;
+  background-color: cadetblue;
+  height: 100vh;
+
+}
+
+a{
+  padding-top: 40vh;
+}
+
+.color{
+  background-color: crimson;
+}
